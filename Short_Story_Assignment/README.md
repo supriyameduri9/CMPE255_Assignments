@@ -1,1 +1,1 @@
-# CMPE255_Assignments
+# Short Story Assignment
